@@ -1,0 +1,17 @@
+.parent__container{
+    padding:100px 100px;
+    text-align: center;
+}
+.enfant{
+display : inline-block;
+vertical-align: top;
+padding-left: 50px;
+padding-right: 50px;
+border-color: rgba(0, 0, 0, 0.509);
+height: 100px;
+width: 100px;
+}
+.resultat{
+    padding: 25px 25px;
+text-align: center;
+}
